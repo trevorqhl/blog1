@@ -4,12 +4,12 @@ title:  "How to install Jekyll on Centos 8"
 date:   2020-04-18 09:15:52 -0400
 categories: jekyll update
 ---
-Login as root
 {% highlight ruby %}
-#=> Install RPMs
+#=> Login as root
 yum install -y ruby ruby-devel make gcc gcc-c++ redhat-rpm-config
 gem install jekyll bundler
-#=> Install Jekyll
+#=> Login as yourself
+cd 
 jekyll new blog
 bundle exec jekyll serve
 {% endhighlight %}
