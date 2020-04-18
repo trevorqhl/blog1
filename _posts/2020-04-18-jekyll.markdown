@@ -11,6 +11,8 @@ gem install jekyll bundler
 #=> Login as yourself
 cd 
 jekyll new blog
+cd blog
+cd ..
 bundle exec jekyll serve
 {% endhighlight %}
 Push the blog to Github
