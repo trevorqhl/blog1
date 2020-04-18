@@ -1,13 +1,9 @@
 ---
-
 layout: post
 
 title:  "How to use git"
-
-date:   2020-04-18
-
+date:   2020-04-18 09:15:52 -0400
 categories: Linux
-
 ---
 
 Setup git environment
