@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Linux](/images/linux.png)
 
-This blog was created on April 18, 2020 during the difficult time from the then ongoing Covid-19 pandemic. Schools were close and I decided to teach my kids some Linux and programming. 
+This blog was started on April 18, 2020 during the difficult time from the then ongoing Covid-19 pandemic. Schools were close and I decided to teach my kids some Linux and programming. 
 
 While command line Linux seems a bit boring, kids are more interested in visual expereince like building a website. I found Jekyll very easy to learn for building a static website and hosting it on Github. 
 
