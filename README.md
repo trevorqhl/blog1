@@ -1,2 +1,1 @@
-# trevorqhl.github.io
-website
+Original Jekyll by Minima
